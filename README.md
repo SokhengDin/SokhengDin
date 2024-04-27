@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/Sokheng06" target="blank"><img src="https://img.shields.io/twitter/follow/Sokheng06?logo=twitter&style=for-the-badge" alt="Sokheng06" /></a> </p>
 
-- 🔭 I’m currently working on **Optimal Control, DNN, RL**
+- 🔭 I’m currently working on **Optimal Control, DNN, RL, Machine Learning, Tensorrt Inference**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
