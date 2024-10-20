@@ -18,7 +18,6 @@ As a dedicated developer, I specialize in C++ and have a keen interest in AI and
 [![ROS2-NMPC-ACADOS](https://github-readme-stats.vercel.app/api/pin/?username=SokhengDin&repo=ROS2-NMPC-ACADOS&theme=dark)](https://github.com/SokhengDin/ROS2-NMPC-ACADOS)
 [![TensorRT-YOLOv8-ByteTrack](https://github-readme-stats.vercel.app/api/pin/?username=SokhengDin&repo=TensorRT-YOLOv8-ByteTrack&theme=dark)](https://github.com/SokhengDin/TensorRT-YOLOv8-ByteTrack)
 
-
 ## GitHub Stats
 🌟 **Public Repositories**: 53  
 👥 **Followers**: 13  
