@@ -8,7 +8,16 @@ As a dedicated developer, I specialize in C++ and have a keen interest in AI and
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,linux,tensorflow,c,cpp,rust,fastapi,js,py,opencv,postgres,vim,neovim,docker,anaconda,bash&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,linux,ros,tensorflow,c,cpp,rust,fastapi,js,py,opencv,postgres,vim,neovim,docker,anaconda,bash&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+[![DNN-MPPI-MPC](https://github-readme-stats.vercel.app/api/pin/?username=SokhengDin&repo=DNN-MPPI-MPC&theme=dark)](https://github.com/SokhengDin/DNN-MPPI-MPC)
+[![YOLO-ONNXRUNTIME-CPP](https://github-readme-stats.vercel.app/api/pin/?username=SokhengDin&repo=YOLO-ONNXRUNTIME-CPP&theme=dark)](https://github.com/SokhengDin/YOLO-ONNXRUNTIME-CPP)
+[![NMPC-ACADOS-CPP](https://github-readme-stats.vercel.app/api/pin/?username=SokhengDin&repo=NMPC-ACADOS-CPP&theme=dark)](https://github.com/SokhengDin/NMPC-ACADOS-CPP)
+[![ROS2-NMPC-ACADOS](https://github-readme-stats.vercel.app/api/pin/?username=SokhengDin&repo=ROS2-NMPC-ACADOS&theme=dark)](https://github.com/SokhengDin/ROS2-NMPC-ACADOS)
+[![TensorRT-YOLOv8-ByteTrack](https://github-readme-stats.vercel.app/api/pin/?username=SokhengDin&repo=TensorRT-YOLOv8-ByteTrack&theme=dark)](https://github.com/SokhengDin/TensorRT-YOLOv8-ByteTrack)
+
 
 ## GitHub Stats
 🌟 **Public Repositories**: 53  
