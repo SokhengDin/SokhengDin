@@ -38,14 +38,3 @@ Stay tuned for my latest blog posts where I share insights on programming and te
 ## Connect with Me
 
 {"facebook":"https://www.facebook.com/sokheng.din.10/","twitter":"https://twitter.com/Sokheng06","instagram":"https://www.instagram.com/sokheng_din/","linkedin":"https://www.linkedin.com/in/din-sokheng-b6baa821a/"}
-
-## ASCII Art
-
-```
-  ____        _    _                      ____  _       
- / ___|  ___ | | _| |__   ___ _ __   __ _|  _ \(_)_ __  
- \___ \ / _ \| |/ / '_ \ / _ \ '_ \ / _` | | | | | '_ \ 
-  ___) | (_) |   <| | | |  __/ | | | (_| | |_| | | | | |
- |____/ \___/|_|\_\_| |_|\___|_| |_|\__, |____/|_|_| |_|
-                                    |___/               
-```
