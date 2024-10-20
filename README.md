@@ -1,19 +1,51 @@
-<h1 align="center">Hi 👋, I'm Sokheng Din</h1>
+## Hi there! 👋
 
-<p align="left"> <a href="https://twitter.com/Sokheng06" target="blank"><img src="https://img.shields.io/twitter/follow/Sokheng06?logo=twitter&style=for-the-badge" alt="Sokheng06" /></a> </p>
+I'm **Sokheng Din**, a passionate programmer from **Phnom Penh, Cambodia**. I enjoy exploring the world of software development and machine learning, always eager to learn and tackle new challenges.
 
-- 🔭 I’m currently working on **Optimal Control, DNN, RL, Machine Learning, Tensorrt Inference**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sokhengdin06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sokhengdin06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/din sokheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="din sokheng" height="30" width="40" /></a>
-<a href="https://fb.com/sokheng din" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sokheng din" height="30" width="40" /></a>
-</p>
+As a dedicated developer, I specialize in C++ and have a keen interest in AI and robotics. I'm currently focused on projects related to my bachelor's thesis and various fun coding experiments. You can check out more of my work on my [blog](https://sokhengdin.github.io).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Skills & Technologies
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sokhengdin&show_icons=true&locale=en&layout=compact" alt="sokhengdin" /></p>
+pytorch,linux,tensorflow,c,cpp,rust,fastapi,js,py,opencv,postgres,vim,neovim,docker,anaconda,bash
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sokhengdin&" alt="sokhengdin" /></p>
+## Top Projects
+
+- [YOLO-ONNXRUNTIME-CPP](https://github.com/SokhengDin/YOLO-ONNXRUNTIME-CPP) - This is for fun in doing inference using cpp :D. ⭐ 0 | Language: C++ | Forks: 0 | Issues: 0
+- [DNN-MPPI-MPC](https://github.com/SokhengDin/DNN-MPPI-MPC) - Repository for my bachelor thesis development code in 2024. ⭐ 2 | Language: C | Forks: 0 | Issues: 0
+- [NMPC-ACADOS-CPP](https://github.com/SokhengDin/NMPC-ACADOS-CPP) - Fun project with NMPC using acados. ⭐ 5 | Language: C | Forks: 0 | Issues: 0
+- [SwervePathPlanning](https://github.com/SokhengDin/SwervePathPlanning) - An interactive visual path planning tool for swerve drive robots. ⭐ 0 | Language: N/A | Forks: 0 | Issues: 0
+- [TensorRT-YOLOv8-ByteTrack](https://github.com/SokhengDin/TensorRT-YOLOv8-ByteTrack) - An object tracking project with YOLOv8 and ByteTrack, speed up by C++ and TensorRT. ⭐ 0 | Language: N/A | Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+🌟 **Public Repositories**: 53  
+👥 **Followers**: 13  
+👤 **Following**: 82  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SokhengDin&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## Recent Activity
+
+- **Created** [YOLO-ONNXRUNTIME-CPP](https://github.com/SokhengDin/YOLO-ONNXRUNTIME-CPP) - This is for fun in doing inference using cpp :D.  
+- **Pushed** to [DNN-MPPI-MPC](https://github.com/SokhengDin/DNN-MPPI-MPC) - Updated my development code for my thesis.  
+- **Forked** [SwervePathPlanning](https://github.com/A05annex/SwervePathPlanning) - Forked to explore path planning for swerve drive robots.
+
+## Latest Blog Posts
+
+Stay tuned for my latest blog posts where I share insights on programming and technology!
+
+## Connect with Me
+
+{"facebook":"https://www.facebook.com/sokheng.din.10/","twitter":"https://twitter.com/Sokheng06","instagram":"https://www.instagram.com/sokheng_din/","linkedin":"https://www.linkedin.com/in/din-sokheng-b6baa821a/"}
+
+## ASCII Art
+
+```
+  ____        _    _                      ____  _       
+ / ___|  ___ | | _| |__   ___ _ __   __ _|  _ \(_)_ __  
+ \___ \ / _ \| |/ / '_ \ / _ \ '_ \ / _` | | | | | '_ \ 
+  ___) | (_) |   <| | | |  __/ | | | (_| | |_| | | | | |
+ |____/ \___/|_|\_\_| |_|\___|_| |_|\__, |____/|_|_| |_|
+                                    |___/               
+```
